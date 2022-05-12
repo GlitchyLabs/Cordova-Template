@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="your.name.here" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://example.com/ns/1.0">
+    <name>Application Name</name>
+    <description>Application Description</description>
+    <author email="support@email.com" href="https://example.com">
+        Your Organization
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
